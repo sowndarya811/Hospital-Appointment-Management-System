@@ -1,5 +1,5 @@
 ﻿using Hospital_Appointment_Management_System.Models;
-namespace HospitalAppointmentManagement
+namespace Hospital_Appointment_Management
 {
     public class Program
     {
